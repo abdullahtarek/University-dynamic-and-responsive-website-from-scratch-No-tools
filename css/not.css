@@ -1,0 +1,60 @@
+.st2 {
+    
+    width: 100%;
+    height: 100%;
+   
+}
+
+.rr {
+    
+    color: #CC6142;
+    background-color: #F2DEDE;
+    padding: 10px;
+    margin: 0;
+    
+}
+.gg {
+ 
+    color: #3C763D;
+    background-color: #DFF0D8;
+    padding: 10px;
+    margin: 0;  
+}
+.hrr{
+    float: right;
+    width: 30%;   
+    margin: 10px;  
+}
+
+.hrr hr {
+    width: 80%;
+    float: left;
+    
+}
+
+
+.hrr h3 {
+ 
+    width: 80%;
+    margin-bottom: 2px;
+    
+    
+}
+
+
+
+#notify {
+    
+    font-family: 'Merriweather Sans Regular';
+    overflow: auto;
+    height: 30%;
+    
+    border: 2px solid black;
+    
+    float: right;
+    width: 100%;
+    padding: 0px;
+    margin: 10px;
+    
+}
+

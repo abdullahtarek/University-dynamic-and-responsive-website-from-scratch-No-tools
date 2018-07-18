@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff>
+
+    <teacher> 
+        <image>/webphptest.com/project/backup13/images/section3/t-1.jpg</image>
+        <title>Judith Powell</title>
+        <detail>Description 1: Before engineering, I developed and implemented CI (Continuous Improvement) management systems in companies across America in various industries to include a military finance organization.</detail> 
+        <password>Msa1234</password>
+    </teacher>
+
+    <teacher> 
+        <image>/webphptest.com/project/backup13/images/section3/t-2.jpg</image>
+        <title>John Scott 2</title>
+        <detail>Description 2: Before engineering, I developed and implemented CI (Continuous Improvement) management systems in companies across America in various industries to include a military finance organization.</detail> 
+        <password>Msa1234</password>
+    </teacher>
+    
+    <teacher> 
+        <image>/webphptest.com/project/backup13/images/section3/t-3.jpg</image>
+        <title>Judith Powell 3</title>
+        <detail>Description 3 :Before engineering, I developed and implemented CI (Continuous Improvement) management systems in companies across America in various industries to include a military finance organization.</detail>  
+        <password>Msa1234</password>
+    </teacher>
+    
+    <teacher> 
+        <image>/webphptest.com/project/backup13/images/section3/t-4.jpg</image>
+        <title>John Scott 4</title>
+        <detail>Description 4: Before engineering, I developed and implemented CI (Continuous Improvement) management systems in companies across America in various industries to include a military finance organization.</detail>     
+        <password>Msa1234</password>
+    </teacher>
+    
+    <teacher> 
+        <image>/webphptest.com/project/backup13/images/section3/t-5.jpg</image>
+        <title>Judith Powell 5</title>
+        <detail>Description 5: Before engineering, I developed and implemented CI (Continuous Improvement) management systems in companies across America in various industries to include a military finance organization.</detail>    
+        <password>Msa1234</password>
+    </teacher>
+    
+    <teacher> 
+        <image>/webphptest.com/project/backup13/images/section3/t-6.jpg</image>
+        <title>John Scott 6</title>
+        <detail>Description 6: Before engineering, I developed and implemented CI (Continuous Improvement) management systems in companies across America in various industries to include a military finance organization.</detail>       
+        <password>Msa1234</password>
+    </teacher>
+    
+        <teacher> 
+            <id>1</id>
+        <image>/webphptest.com/project/backup13/images/section3/t-7.jpg</image>
+        <title>Judith Powell 7</title>
+        <detail>Description 7: Before engineering, I developed and implemented CI (Continuous Improvement) management systems in companies across America in various industries to include a military finance organization.</detail> 
+         <password>Msa1234</password>
+    </teacher>
+
+<teacher><id>1</id><title>Dr Ehab</title><detail>I dont know anything about F****</detail><password>Msa1234</password></teacher><teacher><id>2</id><title>Dr Waghdy</title><detail>titileeeeee descrolv</detail><password>Msa1234</password></teacher><teacher><id>3</id><title>Dr ahmed</title><detail>web </detail><password>Msa1234</password></teacher></staff>

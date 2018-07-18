@@ -1,0 +1,52 @@
+.ContentContainer{
+    width: 100%;
+    height: 50%;
+    margin-top: 20px;
+}
+#Title{
+    margin-top: 100px;
+    font-family:'Merriweather-Bold';
+    font-size: 35px;
+    margin-left: 7%;
+}
+#CourseDisciption{
+    
+    float: left;
+    width: 100%;
+    padding-top: 15px;
+    background-color: darkgray;
+    background-color: darkcyan;
+    font-family:'Merriweather-light';
+    font-size: 20px;
+    display: inline-block;
+    margin: 0 auto;
+    z-index: 99;
+}
+#TeacherDisciption{
+    width: 15%;
+    float:left;
+    z-index: 100;
+    margin: 0 auto;
+    text-align: center;
+    margin-left: 3%;
+}
+#CourseDisciption p{
+    float: left;
+    width: 70%;
+    margin-left: 7%;
+    /*margin-right: 30%;*/
+}
+#TeacherDisciption img{
+    margin-left: 40px;
+    margin-top: -110px;
+    float: right;
+   /* margin-right: 11%;*/
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: solid 2px;
+}
+#TeacherDisciption strong{
+    font-family:'Merriweather-Bold';
+    margin-top: 1%;
+}

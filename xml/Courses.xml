@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Courses>
+
+    <Course>
+        <CourseCode>CS100x</CourseCode>
+        <CourseTitle>Introduction to Information Technology</CourseTitle>
+        <Teacher>
+            <Name>Paul Croves</Name>
+            <image>/webphptest.com/project/backup13/images/section3/t-1.jpg</image> 
+        </Teacher>
+        <CourseDescription>Each student is required to spend a minimum of six weeks of supervised industrial placement inEgypt or abroad, to apply knowledge acquired in his/her course of study and learn practical work experience.</CourseDescription>
+        <Date1> <Day>1</Day> <Time>8</Time> </Date1>
+        <Date2> <Day>4</Day> <Time>8</Time> </Date2>
+    </Course>
+    
+    <Course>
+        <CourseCode>CS313</CourseCode>
+        <CourseTitle>Data Storage and Retrieval</CourseTitle>
+        <Teacher>
+            <Name>Matt Macfarlane</Name>
+            <image>/webphptest.com/project/backup13/images/section3/t-2.jpg</image> 
+        </Teacher>
+        <CourseDescription>For students to gain an understanding of data structures, index design and retrieval issues, to be able to identify fundamental design trade-offs and to apply their acquired knowledge to real world situations, and to properly understand and handle existing implementations of data repositories (e.g.files, Database, and Big Data) structures, indices and queries.</CourseDescription>
+        <Date1> <Day>6</Day> <Time>9.5</Time> </Date1>
+        <Date2> <Day>6</Day> <Time>11</Time> </Date2>
+    </Course>
+    
+    <Course>
+        <CourseCode>CS314</CourseCode>
+        <CourseTitle>Object-Oriented Software Engineering</CourseTitle>
+        <Teacher>
+            <Name>John Doe</Name>
+            <image>/webphptest.com/project/backup13/images/section3/t-3.jpg</image> 
+        </Teacher>
+        <CourseDescription>This module is designed to introduce the students to the activities involved in a software development project. The module follows an object-oriented approach, compatible with leading programming languages such as Java. Students will be introduced to the concepts and the techniques of the Unified Modelling Language (UML). Advanced modelling concepts and techniques will be used to build complex models. The module project will help the students learn how to work as a team for developing properly designed and documented software systems.</CourseDescription>
+        <Date1> <Day>2</Day> <Time>8</Time> </Date1>
+        <Date2> <Day>5</Day> <Time>8</Time> </Date2>
+    </Course>
+    
+    <Course>
+        <CourseCode>CS316</CourseCode>
+        <CourseTitle>Artificial Intelligence</CourseTitle>
+        <Teacher>
+            <Name>John Adams</Name>
+            <image>/webphptest.com/project/backup13/images/section3/t-4.jpg</image> 
+        </Teacher>
+        <CourseDescription>Introduction to Artificial Intelligence is a three-credit undergraduate course emphasizing the building of agents, environments, and systems that can be considered as acting intelligently. In particular, you will learn about the methods and tools that will allow you to build complete systems that can interact intelligently with their environment by learning and reasoning about the world.</CourseDescription>
+        <Date1> <Day>1</Day> <Time>11</Time> </Date1>
+        <Date2> <Day>2</Day> <Time>9.5</Time> </Date2>
+    </Course>
+    
+     <Course>
+        <CourseCode>CS334</CourseCode>
+        <CourseTitle>Programming Concepts and Compiler Design</CourseTitle>
+        <Teacher>
+            <Name>Jane Doe</Name>
+            <image>/webphptest.com/project/backup13/images/section3/t-5.jpg</image> 
+        </Teacher>
+        <CourseDescription>This module is a comparative study of abstraction, syntax, semantics, binding times, data and sequence control, run-time resources, translators, and storage of programming languages. Also, it provides the detailed theories, principles and practices of the design of compilers. Students implement a programming project using selected programming languages, to enhance practical aspects.</CourseDescription>
+        <Date1> <Day>5</Day> <Time>9.5</Time> </Date1>
+        <Date2> <Day>5</Day> <Time>11</Time> </Date2>
+    </Course>
+    
+     <Course>
+        <CourseCode>CS102x</CourseCode>
+        <CourseTitle>Fundamentals of Computing II</CourseTitle>
+        <Teacher>
+            <Name>Diedre Downing</Name>
+            <image>/webphptest.com/project/backup13/images/section3/t-6.jpg</image> 
+        </Teacher>
+        <CourseDescription>This module provides students with the fundamentals to analyse and solving advanced programming problems. It also aims to provide the students with the ability to design algorithms and translate them into a programming source code.</CourseDescription>
+        <Date1> <Day>4</Day> <Time>2</Time> </Date1>
+        <Date2> <Day>6</Day> <Time>2</Time> </Date2>
+    </Course>
+    
+    <Course>
+        <CourseCode>CS203</CourseCode>
+        <CourseTitle>Computer Organization</CourseTitle>
+        <Teacher>
+            <Name>Dave Young</Name>
+            <image>/webphptest.com/project/backup13/images/section3/t-7.jpg</image> 
+        </Teacher>
+        <CourseDescription>This module is concerned with Fundamentals of computer operation, instructions set architecture, assembly language programming, computer organization, pipelining, memory hierarchy, storage and I/O, and trends in computer design.</CourseDescription>
+        <Date1> <Day>3</Day> <Time>11</Time> </Date1>
+        <Date2> <Day>4</Day> <Time>12.5</Time> </Date2>
+    </Course>
+    
+    <Course>
+        <CourseCode>CS364</CourseCode>
+        <CourseTitle>Cloud Computing</CourseTitle>
+        <Teacher>
+            <Name>Bonnie odd</Name>
+            <image>/webphptest.com/project/backup13/images/section3/t-8.jpg</image> 
+        </Teacher>
+        <CourseDescription>This module covers computing in the cloud. Unlike traditional computing, this cloud computing model isn’t PC-centric, it is document-centric. Students will learn about the programming necessary for supporting transactional web applications in the cloud -- mission-critical activities that include customer orders and payments.</CourseDescription>
+        <Date1> <Day>3</Day> <Time>12.5</Time> </Date1>
+        <Date2> <Day>4</Day> <Time>12.5</Time> </Date2>
+    </Course>
+
+</Courses>

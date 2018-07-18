@@ -1,0 +1,276 @@
+.st2 {
+    
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+   
+}
+
+#hmm{
+    
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 4%;
+    
+    margin-bottom: 20px;
+    
+    
+}
+
+#news {
+    
+    overflow: auto;
+    border: 1px solid black;
+    height: 200px;
+    
+}
+
+#news p {
+    
+    padding: 10px;
+    
+    border-bottom: 2px dashed black;
+    
+    
+    
+}
+
+
+
+.rr {
+    
+    color: #CC6142;
+    background-color: #F2DEDE;
+    padding: 10px;
+    margin: 0;
+}
+.gg {
+ 
+    color: #3C763D;
+    background-color: #DFF0D8;
+    padding: 10px;
+    margin: 0;  
+}
+.hrr{
+    float: right;
+    width: 30%;   
+    margin: 10px;
+    margin-right: 0;
+    padding-bottom: 20px;
+}
+
+.hrr hr {
+    width: 80%;
+    float: left;
+    
+}
+
+
+.hrr h3 {
+ 
+    width: 80%;
+    margin-bottom: 2px;
+    
+    
+}
+
+
+
+#notify {
+    
+    font-family: 'Merriweather Sans Regular';
+    overflow: auto;
+    height: 200px;
+    
+    border: 2px solid black;
+    
+    float: right;
+    width: 100%;
+    padding: 0px;
+    margin: 10px;
+    
+}
+#nom {
+    
+    width: 80%;
+    margin: 0 auto;
+    font-size: 2em;
+       
+}
+
+.imgMSA{
+    width: 100%;
+    image-resolution: snap; 
+}
+
+.firstpic {
+ 
+    background-image: url(../images/msa-campus.jpg); 
+    overflow: hidden;
+    background-position: right center;
+   /* background-position: bottom;*/
+    width: 100%;
+    height: 320px;
+}
+
+.Courses-Container {
+ 
+    height: 100%;
+    width: 100%;   
+    
+    padding-top: 40px;
+}
+
+.IntensivePorpuses{
+    display: none;
+}
+#tables {
+    margin-top: 10%;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+th {
+    
+    border-top: 2px solid black;   
+    
+}
+
+th, td {
+    padding: 8px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+tr:nth-child(even){
+    
+    background-color: #30393A;
+    color: #fff;
+}
+
+
+/*ninja*/ 
+
+.CoursesSelection{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 70px;
+    height: 90px;
+}
+.Course1{
+    transition: height 0.3s ease-in;
+    width: 16.3%;
+    height: 60px;
+    display: inline-block;
+    /*background-color: #303DB2;*/
+    background-color:00AAA0;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5px;
+    box-shadow:  0 0 4px rgba(0, 0, 0, 0.7);
+}
+.Course2{
+    transition: height 0.3s ease-in;
+    width: 16.3%;
+    height: 60px;
+    display: inline-block;
+    /*background-color: #019BFF;*/
+    background-color:8ED2C9;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5px;
+    box-shadow:  0 0 4px rgba(0, 0, 0, 0.7);
+}
+.Course1 h3, .Course2 h3{
+    font-family: "Montserrat Light";
+    margin: 0;
+    padding-top: 5%;
+    vertical-align: middle;
+    transition: padding-top 0.3s ease-in;
+}
+.Course1:hover h3 {
+    padding-top: 12%;
+    margin-top: 0px;
+}
+.Course2:hover h3 {
+    padding-top: 12%;
+    margin-top: 0px;
+}
+
+#NewLine{
+    display: none;
+}
+
+div .Course1:hover{
+    cursor: pointer;
+    height: 85px;
+}
+div .Course2:hover{
+    cursor: pointer;
+    height: 85px;
+}
+@media screen and (max-width: 1359px){
+    .Course1{
+        font-size: 25px;
+        width:16.2%;
+    }
+    .Course2{
+        font-size: 25px;
+        width:16.2%;
+    }
+}
+
+
+@media screen and (max-width: 1050px){
+    .Course1{
+        font-size: 20px;
+        width:16%;
+    }
+    .Course2{
+        font-size: 20px;
+        width:16%;
+    }
+}
+
+@media screen and (max-width: 780px){
+    .Course1{
+        font-size: 22px;
+        width:30%;
+        margin-top: 20px;
+    }
+    .Course2{
+        font-size: 22px;
+        width:30%;
+        margin-top: 20px;
+    }
+    #NewLine{
+        display: block;
+    }
+    .CoursesSelection{
+       height: 200px;
+    }
+}
+.Course1 input[type=submit]{
+    width: 100%;
+    height: 100%;
+    background-color:00AAA0;
+    cursor:pointer;
+    border-radius: 5px; 
+    font-size: 30px;
+    border-style: none;
+}
+
+.Course2 input[type=submit]{
+    width: 100%;
+    height: 100%;
+    background-color:8ED2C9;
+    cursor:pointer;
+    border-radius: 5px; 
+    font-size: 30px;
+    border-style: none;
+}

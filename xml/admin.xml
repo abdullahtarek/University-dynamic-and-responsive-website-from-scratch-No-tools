@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Admins>
+    
+    <admin>
+        <title>Farahat</title>
+        <password>Msa1234</password>
+    </admin>
+    
+    <admin>
+        <title>helwa</title>
+        <password>Msa1234</password>
+    </admin>
+
+
+
+    <admin>
+        <title>PurpleMan</title>
+        <password>153137</password>
+    </admin>
+    
+</Admins>

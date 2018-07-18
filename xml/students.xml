@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student>
+        <id>153225</id>
+        <name>Abdullah Tarek</name>
+        <password>123456</password>
+        <CurrentCourses>
+            <CurrentCourse>CS100x</CurrentCourse>
+            <CurrentCourse>CS313</CurrentCourse>
+            <CurrentCourse>CS314</CurrentCourse>
+            <CurrentCourse>CS316</CurrentCourse>
+            <CurrentCourse>CS334</CurrentCourse>
+            <CurrentCourse>CS203</CurrentCourse>
+        </CurrentCourses>
+    </student>
+
+    <student>
+        <id>153137</id>
+        <name>Yousef Hesham</name>
+        <password>153137</password>
+        <CurrentCourses>
+            <CurrentCourse>CS100x</CurrentCourse>
+            <CurrentCourse>CS313</CurrentCourse>
+            <CurrentCourse>CS314</CurrentCourse>
+            <CurrentCourse>CS316</CurrentCourse>
+            <CurrentCourse>CS334</CurrentCourse>
+            <CurrentCourse>CS203</CurrentCourse>
+        </CurrentCourses>
+    </student>
+    
+</students>

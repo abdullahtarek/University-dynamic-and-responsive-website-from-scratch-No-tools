@@ -1,0 +1,182 @@
+.section2_ab {
+    
+    width: 100%;   
+    text-align: center;
+    overflow: hidden;
+    
+}
+.column1 , .column2 {
+    position: relative;
+    width: 40%;
+    text-align: left;
+    display: inline-block;
+    margin-left: 3%;
+    
+}
+
+
+.column1 {
+    
+       left: -100%;
+    
+}
+.column2 {
+    
+    right: -100%;
+    
+}
+
+@font-face {
+    font-family: raleway;
+    src: url(raleway.woff);
+}
+
+.containor
+{
+    margin: 0 10% 0 10%;
+}
+.parallax
+{
+    background-repeat: no-repeat; 
+    width: 100%;
+    height: 100%;
+    padding-top: 25%;
+    padding-bottom: 10%;
+    background-image: url(../images/parralax/bg2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.parallax h2 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+    
+
+.part1 a {
+    color: white;
+    text-decoration: none;
+}
+.part1 {
+    float: left;
+    width: 40%;
+
+}
+
+.part2 {
+    float: left;
+    width: 40%;
+    margin-left: 10%;
+}
+
+.bgimg {
+    background-image: url(bckimg.jpg);
+    
+    padding: 2%;
+    color: white;
+}
+
+
+
+.tabdescription {
+    margin-left: 9%;
+    background-color: green;
+    width: 50%;
+    padding: 1%;
+}
+
+
+
+.description {
+    float: left;
+    width: 170%;
+}
+.description h3, .description p {
+    margin-left: 9%;
+    width: 35%;
+}
+.description img
+{
+       float: left;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px; 
+    padding-left: 3px; 
+}
+
+
+@media screen and (max-width: 900px)
+{
+        .column1 , .column2{
+           
+            display: block;
+            width:100%;
+            
+        }
+    .desciption p
+    {
+        float:right;
+    }
+        
+}
+
+.center  {
+    padding-top: 2%;
+}
+
+
+.part1 ul
+{
+    list-style-type: none;
+}
+.part1 ul li
+{
+    font-size:22px;
+    line-height: 30px;
+}
+
+
+
+
+.tabhead
+{
+    padding-top: 5%;
+    margin-left: 9%;
+     
+}
+
+#one, #two, #three {
+    display: inline;
+    padding: 1%;
+    padding-bottom: 2;
+    height: 30;
+    width: 5;
+    background-color: white;
+}
+#one{
+    background-color: green;
+}
+
+
+
+
+.parallax h2 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+
+button {
+    margin-top: 5%;
+    margin-left: 29%;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-color: blue;
+}
