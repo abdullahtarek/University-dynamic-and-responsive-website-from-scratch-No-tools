@@ -1,0 +1,2 @@
+# University-dynamic-and-responsive-website-from-scratch-No-tools
+This is a university website That is dynamic so it gets it's content dynamically from a database in that case an XML file. The website is also responsive so it can fit n multiple screens from a desktop to a smartphone and this was achieved by using css  @media screens. Login features and for students and teachers are also available.  A demo of the website can be viewed at https://abdullahtarek.000webhostapp.com/home.php# .
